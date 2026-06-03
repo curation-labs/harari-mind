@@ -1,0 +1,7 @@
+{
+  "description": "Parallel Task MCP for deep research and enrichment workflows",
+  "transport": "http",
+  "url": "https://task-mcp.parallel.ai/mcp",
+  "notes": "Task MCP requires a Parallel API key and is enabled only when config.parallel.mcp.enabled is true.",
+  "optional": false
+}

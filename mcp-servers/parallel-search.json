@@ -1,0 +1,7 @@
+{
+  "description": "Parallel Search MCP for real-time web search and extraction",
+  "transport": "http",
+  "url": "https://search.parallel.ai/mcp",
+  "notes": "Search MCP is free for exploration at lower limits and can also accept a Bearer API key for higher limits. Enabled only when config.parallel.mcp.enabled is true.",
+  "optional": false
+}

@@ -1,10 +1,30 @@
 {
   "name": "@curation-labs/harari-mind",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Reconstructed Harari mind — query Yuval Noah Harari's worldview as distilled across Sapiens, Homo Deus, 21 Lessons, and Nexus. Bundles user-query-inference for grounded first-person Q&A with inline citations.",
   "skills": {
     "include": [
-      "user-query-inference"
+      "user-query-inference",
+      "defamiliarize",
+      "suffering-audit",
+      "narrative-deconstruction",
+      "long-arc-contextualize"
     ]
+  },
+  "servers": {
+    "parallel-search": {
+      "description": "Parallel Search MCP for real-time web search and extraction",
+      "transport": "http",
+      "url": "https://search.parallel.ai/mcp",
+      "notes": "Search MCP is free for exploration at lower limits and can also accept a Bearer API key for higher limits. Enabled only when config.parallel.mcp.enabled is true.",
+      "optional": false
+    },
+    "parallel-task": {
+      "description": "Parallel Task MCP for deep research and enrichment workflows",
+      "transport": "http",
+      "url": "https://task-mcp.parallel.ai/mcp",
+      "notes": "Task MCP requires a Parallel API key and is enabled only when config.parallel.mcp.enabled is true.",
+      "optional": false
+    }
   }
 }
