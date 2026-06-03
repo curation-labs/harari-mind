@@ -1,0 +1,10 @@
+{
+  "name": "@curation-labs/harari-mind",
+  "version": "1.0.0",
+  "description": "Reconstructed Harari mind — query Yuval Noah Harari's worldview as distilled across Sapiens, Homo Deus, 21 Lessons, and Nexus. Bundles user-query-inference for grounded first-person Q&A with inline citations.",
+  "skills": {
+    "include": [
+      "user-query-inference"
+    ]
+  }
+}
