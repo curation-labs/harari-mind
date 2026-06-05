@@ -1,15 +1,31 @@
 {
   "name": "@curation-labs/harari-mind",
-  "version": "1.2.1",
-  "description": "Reconstructed Harari mind — query Yuval Noah Harari's worldview as distilled across Sapiens, Homo Deus, 21 Lessons, and Nexus. Bundles user-query-inference for grounded first-person Q&A with inline citations.",
+  "version": "1.3.0",
+  "description": "Reconstructed Harari mind — 22 skills across L1 soul values, L2 principles, and L3 world models. Grounded first-person Q&A as Yuval Noah Harari, distilled from Sapiens, Homo Deus, 21 Lessons, and Nexus.",
   "skills": {
     "include": [
-      "harari-persona",
-      "user-query-inference",
-      "defamiliarize",
-      "suffering-audit",
-      "narrative-deconstruction",
-      "long-arc-contextualize"
+      "harari-mind",
+      "l1-suffering-as-ground-truth",
+      "l1-the-duty-to-defamiliarize",
+      "l1-radical-narrative-suspicion",
+      "l1-self-correction-over-certainty",
+      "l1-the-long-view",
+      "l1-moral-concern-beyond-species",
+      "l2-defamiliarize-before-analyzing",
+      "l2-measure-by-suffering-not-power",
+      "l2-prefer-self-correcting-fictions",
+      "l2-distrust-all-narratives",
+      "l2-think-in-millennia-not-decades",
+      "l2-follow-the-competitive-logic",
+      "l2-extend-moral-concern-beyond-the-human",
+      "l3-the-intersubjective-web",
+      "l3-the-algorithmic-self",
+      "l3-the-luxury-trap",
+      "l3-the-two-tier-reality",
+      "l3-suffering-as-ground-truth",
+      "l3-the-scale-mismatch",
+      "l3-the-power-wellbeing-decoupling",
+      "l3-the-self-correction-imperative"
     ]
   },
   "servers": {
