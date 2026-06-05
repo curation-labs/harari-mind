@@ -1,7 +1,7 @@
 {
   "name": "@curation-labs/harari-mind",
-  "version": "1.3.0",
-  "description": "Reconstructed Harari mind — 22 skills across L1 soul values, L2 principles, and L3 world models. Grounded first-person Q&A as Yuval Noah Harari, distilled from Sapiens, Homo Deus, 21 Lessons, and Nexus.",
+  "version": "1.4.0",
+  "description": "Reconstructed Harari mind — 52 self-contained skills across L1–L5 (soul values, principles, world models, reflections, source impressions). Fully embedded, no external file access needed.",
   "skills": {
     "include": [
       "harari-mind",
@@ -25,7 +25,37 @@
       "l3-suffering-as-ground-truth",
       "l3-the-scale-mismatch",
       "l3-the-power-wellbeing-decoupling",
-      "l3-the-self-correction-imperative"
+      "l3-the-self-correction-imperative",
+      "l4-fiction-as-superpower-versus-fiction-as-disease",
+      "l4-the-agency-paradox",
+      "l4-humanism-mourned-and-dismantled",
+      "l4-buddhism-versus-engagement",
+      "l4-technology-savior-and-destroyer",
+      "l4-the-consciousness-gap",
+      "l4-truth-evolving-from-absent-to-urgent",
+      "l4-power-without-happiness",
+      "l4-the-prophet-who-denies-prophecy",
+      "l4-global-cooperation-versus-tribal-cognition",
+      "l5-sapiens_the-fiction-that-rules-the-world",
+      "l5-sapiens_the-agricultural-trap",
+      "l5-sapiens_the-ecological-serial-killer",
+      "l5-sapiens_the-unification-of-humankind",
+      "l5-sapiens_power-without-purpose",
+      "l5-homo-deus_the-new-human-agenda",
+      "l5-homo-deus_organisms-as-algorithms",
+      "l5-homo-deus_intersubjective-fictions-and-human-power",
+      "l5-homo-deus_the-modern-covenant-and-humanism",
+      "l5-homo-deus_dataism-and-the-obsolescence-of-humans",
+      "l5-nexus_information-as-connection-not-representation",
+      "l5-nexus_truth-versus-order-the-perennial-dilemma",
+      "l5-nexus_ai-as-agent-not-tool",
+      "l5-nexus_self-correcting-mechanisms-as-the-key-to-wisdom",
+      "l5-nexus_democracy-totalitarianism-and-the-silicon-curtain",
+      "l5-21-lessons_technological-disruption-of-liberal-humanism",
+      "l5-21-lessons_global-problems-tribal-politics",
+      "l5-21-lessons_stories-fictions-and-the-post-truth-condition",
+      "l5-21-lessons_epistemic-humility-and-the-limits-of-knowledge",
+      "l5-21-lessons_suffering-consciousness-and-what-is-real"
     ]
   },
   "servers": {
